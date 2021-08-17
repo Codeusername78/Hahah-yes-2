@@ -25,4 +25,4 @@ async def bye(ctx):
     await ctx.send("Life is Epic!!")
 
 
-client.run('ODc1NzA3MTg1MTk0MjMzODk2.YRZb3g.o7QRKPbLx6nU99AibG9FRti8c6M')
+client.run('ODc1NzA3MTg1MTk0MjMzODk2.YRZb3g.tjRp90l2j9oJYq9cUivq0aJQRK4')
